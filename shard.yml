@@ -1,0 +1,13 @@
+name: aoc2017
+version: 0.1.0
+
+authors:
+  - Zac Nowicki <zachnowicki@gmail.com>
+
+# targets:
+#   aoc2017:
+#     main: src/aoc2017.cr
+
+crystal: 0.23.1
+
+license: MIT
